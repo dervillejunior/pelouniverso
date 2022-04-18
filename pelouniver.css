@@ -1,0 +1,118 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:darkblue;
+    padding: 10px;
+   
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+ p, ol {   
+    margin-bottom: 10px;
+    line-height: 1.4;
+    color: #333;
+ }
+header {
+    background-color: rgb(215, 231, 250);
+    display:block;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.interesse p {
+    background-color: rgb(12, 74, 124);
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+}
+.cognito {
+    height: 380px !important;
+    overflow: hidden !important;
+    background-color:rgb(220, 245, 255);
+    max-width: 1198px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+
+    
+
+}
+section img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-right: 10px;
+    width: 50%;
+}
+nav{
+  
+    display: block;
+    float: left;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px 10px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 15px;
+}
+  
+section nav {
+    background-color: #488299;
+    display: block;
+    float: left;
+    width: 30%;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+/*nav li {
+    background-color: #8bb9ff;
+    margin: 1px 20px 1px 0;
+    padding: 10px;
+}*/
+
+nav li:hover {
+    background-color: #488299;
+}
+
+nav a {
+    text-decoration: none;
+    color: #254159;
+}
+
+nav li {
+    background-color: rgb(215, 231, 250);
+    margin: 1px 20px 1px 0;
+    padding: 10px;
+}
+ 
+.body{
+background-color: rgb(220, 245, 255);
+max-width: 1198px;
+margin: 0 auto;
+padding: 20px;
+display: block;
+
+
+}
+body{
+    background-color: azure;
+}
+
+footer {
+    background-color: #488299;
+    height:80px;
+    
+}
+footer p {
+    color: #ffffff;
+    font-size: 1.0rem;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: darkblue;
+}
+    
